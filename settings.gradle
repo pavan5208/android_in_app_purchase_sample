@@ -1,3 +1,2 @@
-include ':purchaseModule'
 include ':app'
 rootProject.name = "android_in_apppurchases_sample"
